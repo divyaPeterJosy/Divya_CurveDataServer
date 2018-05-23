@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurveDataServer", "PetrolinkServer\CurveDataServer.csproj", "{EF91D65D-B0B8-4675-8200-9D0B86BE7402}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF91D65D-B0B8-4675-8200-9D0B86BE7402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF91D65D-B0B8-4675-8200-9D0B86BE7402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF91D65D-B0B8-4675-8200-9D0B86BE7402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF91D65D-B0B8-4675-8200-9D0B86BE7402}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4BA34CB-D0A0-48CD-83ED-5477719D9D10}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\PetrolinkServer\PetrolinkServer\bin\Debug\MyCurves.csv
+C:\Users\HP\source\repos\PetrolinkServer\PetrolinkServer\bin\Debug\PetrolinkServer.exe.config
+C:\Users\HP\source\repos\PetrolinkServer\PetrolinkServer\bin\Debug\PetrolinkServer.exe
+C:\Users\HP\source\repos\PetrolinkServer\PetrolinkServer\bin\Debug\PetrolinkServer.pdb
+C:\Users\HP\source\repos\PetrolinkServer\PetrolinkServer\obj\Debug\CurveServer.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\PetrolinkServer\PetrolinkServer\obj\Debug\CurveServer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\PetrolinkServer\PetrolinkServer\obj\Debug\PetrolinkServer.exe
+C:\Users\HP\source\repos\PetrolinkServer\PetrolinkServer\obj\Debug\PetrolinkServer.pdb
